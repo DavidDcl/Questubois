@@ -1,4 +1,4 @@
-# Second Team Project
+# Second Group Project
 
 
 ## Concept
